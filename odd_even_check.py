@@ -3,7 +3,7 @@
 # If  is even and in the inclusive range of  to , print Weird
 # If  is even and greater than , print Not Weird
 
-n=24
+n=int(input(""))
 
 if(n%2!=0):
     print("Weird")
