@@ -10,5 +10,5 @@ for i in range(user):
     list.append(i)
     
 filter_long_words()
-
+#❤
 
