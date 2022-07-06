@@ -15,7 +15,7 @@ num=int(input("Enter integer you want to check"))
 l1=[]
 
 for i in range(user):
-    i=input("enter name")
+    i=input(f"enter word {i+1}")
     l1.append(i)
 
 value=long_word(l1,num)
