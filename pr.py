@@ -59,7 +59,7 @@
 #     print(name,end="")
 # a = {1,6,4,7,4,8}
 # b =sorted(a)
-# print(type(b))
+# print(type(b)) #
 def long_word(list,num):
         l2=[]
         for i in list:
